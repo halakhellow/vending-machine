@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <Route exact path="/" component={VendingMachine} />
+      <Route exact path="/vending-machine" component={VendingMachine} />
       <Route exact path="/pepsi" component={Pepsi} />
       <Route exact path="/chips" component={Chips} />
       <Route exact path="/swiss-roll" component={SwissRoll} />

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vending-machine/static/css/main.b984f75d.chunk.css",
-    "main.js": "/vending-machine/static/js/main.5c7199b0.chunk.js",
-    "main.js.map": "/vending-machine/static/js/main.5c7199b0.chunk.js.map",
+    "main.js": "/vending-machine/static/js/main.f3f63212.chunk.js",
+    "main.js.map": "/vending-machine/static/js/main.f3f63212.chunk.js.map",
     "runtime-main.js": "/vending-machine/static/js/runtime-main.fb871aa5.js",
     "runtime-main.js.map": "/vending-machine/static/js/runtime-main.fb871aa5.js.map",
     "static/js/2.98271c03.chunk.js": "/vending-machine/static/js/2.98271c03.chunk.js",
     "static/js/2.98271c03.chunk.js.map": "/vending-machine/static/js/2.98271c03.chunk.js.map",
     "index.html": "/vending-machine/index.html",
-    "precache-manifest.0fcd0cd955521ca409667b899f23b884.js": "/vending-machine/precache-manifest.0fcd0cd955521ca409667b899f23b884.js",
+    "precache-manifest.e6a9a208ec0b0bc8858253f89e9ece55.js": "/vending-machine/precache-manifest.e6a9a208ec0b0bc8858253f89e9ece55.js",
     "service-worker.js": "/vending-machine/service-worker.js",
     "static/css/main.b984f75d.chunk.css.map": "/vending-machine/static/css/main.b984f75d.chunk.css.map",
     "static/js/2.98271c03.chunk.js.LICENSE.txt": "/vending-machine/static/js/2.98271c03.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.fb871aa5.js",
     "static/js/2.98271c03.chunk.js",
     "static/css/main.b984f75d.chunk.css",
-    "static/js/main.5c7199b0.chunk.js"
+    "static/js/main.f3f63212.chunk.js"
   ]
 }

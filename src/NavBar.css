@@ -1,0 +1,14 @@
+.NavBar {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: gainsboro;
+    padding: 1rem;
+}
+
+.NavBar a {
+    text-decoration: none;
+    color: gainsboro;
+    font-size: 1.1rem;
+}
